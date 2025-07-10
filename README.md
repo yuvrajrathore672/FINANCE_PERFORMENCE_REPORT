@@ -34,4 +34,3 @@ If you’re interested in discussing this project or want to collaborate, feel f
 
 ---
 
-⭐ *If you found this useful, consider starring the repo!*
