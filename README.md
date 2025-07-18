@@ -30,7 +30,7 @@ This project demonstrates my ability to turn financial data into business insigh
 If you’re interested in discussing this project or want to collaborate, feel free to reach out:
 
 - 🔗 [Portfolio Website](https://yuvrajrathore672.github.io/YUVRAJ/)
-  💼 [LinkedIn](https://yuvrajrathore672.github.io/YUVRAJ/)
+  💼 [LinkedIn](in/yuvrajrathore54)
 
 ---
 
